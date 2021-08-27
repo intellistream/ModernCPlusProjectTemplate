@@ -24,7 +24,7 @@ sudo apt-get install -y liblog4cxx-dev
 - test -- test code based on google test
 
 ## How to start?
-- Please rename INTELLI to your desired project name.
+- Please rename IntelliStream to your desired project name.
 - Implement your core function code in src and include folders.
 - Implement your application code in benchmark folder.
 - Implement your test code in test folder.
