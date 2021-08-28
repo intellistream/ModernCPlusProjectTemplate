@@ -1,5 +1,5 @@
-# CPlusProjectTemplate
-Template for C++ project; using CMAKE to manage
+# ModernCPlusProjectTemplate
+Template for C++ 20 project; using CMAKE to manage
 
 ## Requires G++11
 ```shell
