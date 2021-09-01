@@ -1,4 +1,5 @@
-# ModernCPlusProjectTemplate
+# ModernCPlusProjectTemplate [![CMake](https://github.com/intellistream/ModernCPlusProjectTemplate/actions/workflows/cmake.yml/badge.svg?branch=main)](https://github.com/intellistream/ModernCPlusProjectTemplate/actions/workflows/cmake.yml)
+
 Template for C++ 20 project; using CMAKE to manage
 
 ## Requires G++11
